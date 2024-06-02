@@ -1,0 +1,5 @@
+- ServerName: .\SQLEXPRESS
+  Username: sa
+  Password: okchiatay
+  Databases:
+      - HUYNDAI2023
